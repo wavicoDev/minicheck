@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment
+.env
+.env.local
+
+# Models (large files)
+klue-roberta-nli/
+embedding/
+
+# Large data folders
+wedding/
+데이터셋/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude Code
+.claude/
