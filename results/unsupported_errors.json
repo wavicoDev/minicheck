@@ -1,0 +1,107 @@
+[
+  {
+    "id": "REPORT-news_r-03474-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '고용보험 가입자 증가율이 늘고 있다'고 서술했으나, 문서에서는 이들 30, 40대 노동자들의 고용보험 가입자 증가율이 눈에 띄게 떨어졌다고 명시되어 있어 사실이 왜곡되었다."
+  },
+  {
+    "id": "REPORT-news_r-09853-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "DATE",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '1965년'으로 잘못 기재되어 있으며, 문서에서는 '1665년'으로 언급되고 있음."
+  },
+  {
+    "id": "REPORT-news_r-18215-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '사형을 구형했다'는 내용은 문서에서 '검찰은 사형을 구형했다'고 언급되었으나, 고유정에게 실제로 선고된 형은 무기징역이므로 사실 왜곡이 있다."
+  },
+  {
+    "id": "REPORT-news_r-21647-00005_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '분광요소법은 유한체적법에 비해 계산량 자체는 없지만'이라는 주장은 문서의 내용과 다르며, 문서에서는 분광요소법이 계산량이 많다고 명시하고 있음."
+  },
+  {
+    "id": "REPORT-news_r-25468-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 트럼프가 '건강 상태가 좋지 않다'고 언급했으나, 문서에서는 '나는 건강 상태가 좋다'고 트위터에 올렸다고 명시되어 있어 사실이 왜곡되었다."
+  },
+  {
+    "id": "REPORT-news_r-28742-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 공화당 최고 지도자와 부통령이 트럼프의 불복 소송에 공개 지지 의사를 밝힌 것으로 서술했으나, 문서에서는 그들이 거리를 두고 공개 지지 의사를 밝히지 않았다고 명시하고 있어 사실이 왜곡되었다."
+  },
+  {
+    "id": "REPORT-news_r-28868-00002_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '미국경제가 미국을 제치고 세계 최고가 될 것'이라는 주장은 문서의 내용과 반대되는 사실로, 문서에서는 중국이 2032년까지 미국을 제치고 세계 1위가 될 것이라고 전망하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-00752-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 '징역 1년'으로 잘못 언급되었으며, 실제로는 무기징역이 선고되었다. 또한, 아내와 아내의 친언니를 폭행한 사실은 맞지만, 아내가 숨진 사건에 대한 맥락이 왜곡되었다."
+  },
+  {
+    "id": "REPORT-news_r-01166-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문은 홈브루잉이 가성비 좋게 집에서 맥주를 만들 수 있게 되었다고 주장하지만, 문서에서는 홈브루잉이 가성비 면에서 좋지 않다고 명시하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-10472-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "OMISSION",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문은 라마단의 기간과 금식의 중요성을 언급하지 않고 있으며, '밤 명절'이라는 표현이 문서의 내용을 충분히 반영하지 못하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-11419-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문은 북한이 미국의 입장 변경을 요구하며 도발을 예고한 내용을 왜곡하여, 북한이 이미 도발했다고 잘못 서술하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-12398-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 배민라이더스는 배달대행업체이기 때문에 지원금 사용이 가능하다고 서술했으나, 실제로는 배민라이더스는 재난지원금 사용이 불가능하다고 명시되어 있다. 따라서 요약문은 사실을 왜곡하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-12431-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문은 개인 투자자가 ETF·ETN에 투자하기 위해 최소 1000만원을 넣어둬야 한다고 주장하지만, 문서에서는 이 조건이 레버리지 및 인버스 레버리지 ETF·ETN에만 해당한다고 명시하고 있다."
+  },
+  {
+    "id": "REPORT-news_r-13480-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "아주자동차대학은 2020 국가산업대상에서 인재육성 부문에서 수상했으며, 요약문에서는 '인성육성 부분'으로 잘못 기술되어 사실이 왜곡되었다."
+  },
+  {
+    "id": "REPORT-news_r-27188-00001_summary1",
+    "llm_verdict": "UNSUPPORTED",
+    "llm_error_type": "FACT",
+    "llm_confidence": 0.9,
+    "llm_reason": "요약문에서 KT 위즈가 두산 베어스와의 경기에서 17대 1로 이겼다고 했으나, 문서에서는 17대 5로 이겼다고 명시되어 있어 사실이 왜곡되었다."
+  }
+]
