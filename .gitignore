@@ -10,7 +10,8 @@ venv/
 
 # Models (large files)
 klue-roberta-nli/
-embedding/
+embedding/*
+!embedding/milvus-api/
 
 # Large data folders
 wedding/

@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+milvus:
+  host: localhost
+  port: 19530
+  collection-name: minicheck_embeddings
+  dimension: 1024  # BGE-M3 embedding dimension
+
+spring:
+  application:
+    name: milvus-api
